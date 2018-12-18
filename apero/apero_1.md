@@ -4,7 +4,7 @@ C’est comme un guacamole classique, mais dont on a remplacé l’élément pri
 
 Pour 6 personnes environ, vous avez besoin de :
 
-{% hint style="info" %}
+{% hint style="tip" %}
 
 4 courgettes
 2 échalotes
