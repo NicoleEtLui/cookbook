@@ -4,17 +4,17 @@ C’est comme un guacamole classique, mais dont on a remplacé l’élément pri
 
 Pour 6 personnes environ, vous avez besoin de :
 
-{% hint style="tip" %}
+{% hint style="info" %}
 
-4 courgettes
-2 échalotes
-1 citron vert
-½ botte de coriandre
-1 gousse d’ail
-1 à 2 tomates cerise
-1 filet d’huile d’olive
-1 pointe de piment d’Espelette (si vous l’aimez relevé)
-Sel & poivre
+* 4 courgettes
+* 2 échalotes
+* 1 citron vert
+* ½ botte de coriandre
+* 1 gousse d’ail
+* 1 à 2 tomates cerise
+* 1 filet d’huile d’olive
+* 1 pointe de piment d’Espelette (si vous l’aimez relevé)
+* Sel & poivre
 
 {% endhint %}
 
