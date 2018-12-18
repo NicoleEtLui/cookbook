@@ -1,6 +1,6 @@
 # Crackers croquants pour dip apéritif
 
-| [je mange donc je vis](http://jemangedoncjevis.be/index.php/crackers-croquants-pour-dip-aperitif/)
+> [je mange donc je vis](http://jemangedoncjevis.be/index.php/crackers-croquants-pour-dip-aperitif/)
 
 {% hint style="info" %}
 
