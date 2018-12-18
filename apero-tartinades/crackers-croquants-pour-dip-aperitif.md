@@ -22,7 +22,6 @@ Dans le bol du Thermomix, verser la farine, l’huile d’olive, le romarin et u
 Ajouter 120g d’eau tiède et continuer 2min30/mode pétrin.
 
 Séparer la pâte en 2.
-
 Etaler très finement chaque pâton au rouleau, cette quantité permet de remplir les 2 plaques du four sur toute la surface. Ce sera meilleur si la pâte est ultra fine.
 
 Former des trous  avec une fourchette pour éviter les bulles d’air.
